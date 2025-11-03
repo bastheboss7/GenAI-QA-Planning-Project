@@ -1,6 +1,7 @@
 # 🧠 Project Title: Generative AI-Driven QA Planning: Scaling Test Readiness with Senior Expertise
 
-# Repository Status: Complete | Core Skill Demonstrated: Prompt Engineering, Test Strategy, RBT, NFRs
+Repository Status: Complete  
+Core Skill Demonstrated: Prompt Engineering, Test Strategy, RBT, NFRs
 
 This repository documents a self-directed project focused on optimizing the QA planning phase by integrating Generative AI (LLMs). Leveraging over 15 years of automation and QA strategy experience, I developed advanced "Mega Prompts" to generate high-quality Test Strategy documents and comprehensive Test Case Matrices, significantly accelerating test readiness.
 
