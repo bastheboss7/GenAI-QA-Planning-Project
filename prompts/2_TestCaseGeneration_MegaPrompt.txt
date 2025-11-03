@@ -1,0 +1,13 @@
+Based on the following core functional requirement: "Users must be able to securely log into their Gmail account," generate a **full Test Case Matrix** using the Gherkin format (Given/When/Then).
+
+**Requirements for Test Case Generation:**
+1.  The output must include three distinct categories: **Positive Cases** (Happy Path, Remember Me), **Negative Cases**, and **Edge Cases** related to session management.
+2.  For **Negative Cases**, explicitly cover the following input validation failures:
+    * Invalid email format (no "@" symbol).
+    * Valid email but incorrect password (3 consecutive attempts).
+    * Attempting to log in with an email that is not registered.
+3.  For **Edge Cases**, cover:
+    * Successful login via a saved password on a device with a **slow network simulation**.
+    * Attempting to bypass **MFA** with a stale session token.
+    * Testing account lockout/temporary suspension after too many failed attempts.
+4.  The output must be formatted as a table with columns: Test ID, Category, Test Case Title, Gherkin Steps (Given/When/Then), and Expected Result.
