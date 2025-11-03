@@ -1,0 +1,11 @@
+Act as a Senior QA Strategist with 15 years of experience in high-compliance SaaS applications.
+
+Your task is to review the following requirement and generate a comprehensive **Test Strategy document** focused on the Gmail login functionality.
+
+**Functional Requirement:** "Users must be able to securely log into their Gmail account using a valid email and password combination, including handling Multi-Factor Authentication (MFA)."
+
+**Constraints & Non-Functional Requirements (NFRs):**
+1.  Testing must follow a **Risk-Based Testing (RBT)** approach, prioritizing authentication, security, and session management flows.
+2.  Include a section on **Non-Functional Testing** covering: Performance (Load/Stress for high concurrency login attempts) and Security (prevention of Brute Force and credential stuffing attacks).
+3.  Specify recommended **Testing Tools** for each NFR (e.g., JMeter/Gatling for Load, OWASP ZAP for Security scanning).
+4.  Deliver the strategy using the following sections: Objective, Scope (In/Out, specifically mentioning MFA scope), Testing Types, Test Environments, Success Metrics (KPIs, e.g., login response time < 1.5s), and Test Data Strategy.
