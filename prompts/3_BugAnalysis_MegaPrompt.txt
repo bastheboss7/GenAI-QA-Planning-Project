@@ -1,0 +1,10 @@
+Analyze the following Bug Report related to the Gmail login feature and propose a clear, three-part solution.
+
+**Sample Bug Report:** "After a user successfully logs in, the 'Inbox' page loads, but the user's profile icon and name in the top right corner are missing for approximately 5 seconds on Firefox, resulting in a blank space before loading the user details."
+
+**Three-Part Solution Requirements:**
+1.  **Root Cause Analysis (RCA):** Identify the probable layer of failure (e.g., Frontend rendering issue, slow API call for user profile data, or browser-specific rendering issue).
+2.  **Test Prevention Strategy:** Propose 3 new, specific **Automation Test Cases** that would have caught this bug in the CI/CD environment *before* deployment. These should focus on explicit wait conditions and browser matrix coverage.
+3.  **Documentation Update:** Specify which sections of the **Automation Readme or Performance Budget Documentation** need immediate updating to include new synchronization standards or acceptable API latency thresholds.
+
+The analysis should be detailed and actionable, focused on permanent prevention.
