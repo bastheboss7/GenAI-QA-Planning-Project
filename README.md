@@ -40,4 +40,4 @@ The success of this GenAI process is dependent on senior-level input. The Mega P
 
 Due to GitHub size limits, the high-impact project demonstration video is hosted externally. This video showcases the **real-time speed** and **strategic quality** of the GenAI-Augmented QA planning process.
 
-▶️ **WATCH THE FULL DEMO HERE:** **[See GenAI QA Strategy in Action: Click to Watch the 60-Second Video](https://drive.google.com/file/d/1riZFD-Zd3W0oe0Xpf6J_Ir-_64fE6z26/view?usp=drive_link)**
+▶️ **WATCH THE FULL DEMO HERE:** **[See GenAI QA Strategy in Action: Click to Watch the 60-Second Video](https://youtu.be/zjobz7x6lmM)**
